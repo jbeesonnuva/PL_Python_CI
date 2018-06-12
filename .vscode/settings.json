@@ -1,0 +1,23 @@
+{
+    "cSpell.words": [
+        "Jupyter",
+        "Scrapy",
+        "Spyder",
+        "celerybeat",
+        "htmlcov",
+        "ipynb",
+        "mkdocs",
+        "mypy",
+        "nosetests",
+        "pycache",
+        "pyenv",
+        "pytest",
+        "ropeproject",
+        "sdist",
+        "spyderproject",
+        "spyproject",
+        "sqlite",
+        "webassets"
+    ],
+    "python.pythonPath": "${workspaceFolder}\\venv\\Scripts\\python.exe"
+}
